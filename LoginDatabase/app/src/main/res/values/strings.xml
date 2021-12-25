@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LoginDatabase</string>
+    <string name="forgot_pass"><u>Forgot Password ?</u></string>
+    <string name="sign_up"><u>Sign Up</u></string>
+    <string name="sign_in"><u>Sign In</u></string>
+    <string name="click_here"><u>Click Here</u></string>
+</resources>
